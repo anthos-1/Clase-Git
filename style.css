@@ -111,3 +111,33 @@ a{
 .dis-subtitle-font{
     font-size: 15px;
 }
+
+footer{
+    height: 200px;
+    width: 100%;
+    background-color:  #24272a;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-bottom: 0;
+    padding-left: 20px;
+}
+
+footer ul{
+    list-style: none;
+}
+
+
+.social-media-container{
+    display: flex;
+    justify-content: center;
+    width:300px;
+}
+.social-media-container>img{
+    width: 30px;
+    padding: 0 10px 0 10px;
+}
+
+.margin-top-lg{
+    margin-top: 50px;
+}
