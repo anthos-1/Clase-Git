@@ -27,3 +27,39 @@ a{
     text-decoration: none;
     margin: 5px
 }
+.home{
+    display: flex;
+    background-image: url('../img/travel.jpg');
+    height: 70vh;
+    width: 100vw;
+    color: white;
+    background-repeat: no-repeat;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+    }
+
+.text-shadow{
+    text-shadow: 1px  1px 4px  rgba(0,0,0,0.45);
+
+}
+.title-font{
+    font-size: 30px;
+    font-weight: 5;
+}
+
+.subtitle-font{
+    font-size: 20px
+}
+
+.margin-bottom-sd{
+    margin-bottom: 30px;
+
+}
+
+.margin-bottom-md{
+    margin-bottom: 15px;
+
+
+}
